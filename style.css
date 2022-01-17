@@ -1,0 +1,65 @@
+body{
+    background:#6610f2;
+}
+
+.title , .projects, .skills, .rodapé{
+    color:  #ddd9ce;
+}
+
+.title {
+    font-family: -apple-system;
+    font-size: 1cm;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.projects {
+    text-align: center;
+    padding: 15px;
+}
+
+.skills {
+    text-align: center;
+    padding:15px;
+}
+
+.rodapé{
+   color: #ddd9ce;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* centralizar foto
+ <img class="perfil" src="" alt="Ilustração de Brenda Freitas"> html
+
+   IMG.perfil  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+css ^
